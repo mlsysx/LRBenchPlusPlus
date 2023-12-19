@@ -6,7 +6,7 @@ If you find this tool useful, please cite the following paper:
     @INPROCEEDINGS{lrbenchplusplus,
         author={Jin, Hongpeng and Wei, Wenqi and Wang, Xuyu and Zhang, Wenbin and Wu, Yanzhao},
         booktitle={2023 IEEE Fifth International Conference on Cognitive Machine Intelligence (CogMI)},
-        title={Demystifying Learning Rate Policies for High Accuracy Training of Deep Neural Networks},
+        title={Rethinking Learning Rate Tuning in the Era of Large Language Models},
         year={2023},
         volume={},
         number={},
